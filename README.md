@@ -12,6 +12,8 @@ This Unity project is a Verlet integrator implementation with Ordinary Different
 - Verlet Integration for physics simulation
 - Ordinary Differential Equations (OED) integration for accurate calculations
 - Customizable parameters for simulation precision and number of simultaneous runs
+- Visualize Thomsom Strange Attractor
+- Visualize Lorenze Attractor
 
 ## Installation
 1. Clone this repository or download the project as a ZIP file.
