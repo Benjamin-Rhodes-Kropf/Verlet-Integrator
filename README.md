@@ -1,7 +1,7 @@
 
-## Introduction to my Unity Verlet-Integrator with OED Integration
+## Introduction to my Unity Verlet-Integrator with ODE Integration
 
-This Unity project is a Verlet integrator implementation with Ordinary Differential Equations (OED) integration. Verlet integration is a numerical method used to integrate Newton's equations of motion,ODE (Ordinary Differential Equations)integration is used for solving ordinary differential equations.
+This Unity project is a Verlet integrator implementation with Ordinary Differential Equations (ODE) integration. Verlet integration is a numerical method used to integrate Newton's equations of motion,ODE (Ordinary Differential Equations)integration is used for solving ordinary differential equations.
 
 ## Quick Peak!
 - you can use the simulator here!
@@ -10,7 +10,7 @@ This Unity project is a Verlet integrator implementation with Ordinary Different
 ## Features
 
 - Verlet Integration for physics simulation
-- Ordinary Differential Equations (OED) integration for accurate calculations
+- Ordinary Differential Equations (ODE) integration for accurate calculations
 - Customizable parameters for simulation precision and number of simultaneous runs
 - Visualize Thomsom Strange Attractor
 - Visualize Lorenze Attractor
@@ -21,9 +21,9 @@ This Unity project is a Verlet integrator implementation with Ordinary Different
 3. Open the 'main' scene you want to work with.
 
 ## Usage
-To use the Verlet integrator with OED integration in your Unity project, follow these steps:
+To use the Verlet integrator with ODE integration in your Unity project, follow these steps:
 1. Use the UI to set diffrent intitalization parameters
-2. Run the scene, and the GameObject will be simulated using the Verlet integrator with OED integration.
+2. Run the scene, and the GameObject will be simulated using the Verlet integrator with ODE integration.
 3. Hit space to switch between particle views once playing.
 4. change the speed paramter to increase simulation accuracy.
 
