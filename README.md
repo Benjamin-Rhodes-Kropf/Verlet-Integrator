@@ -1,7 +1,7 @@
 
 ## Introduction to my Unity Verlet-Integrator with OED Integration
 
-This Unity project is a Verlet integrator implementation with Ordinary Differential Equations (OED) integration. Verlet integration is a numerical method used to integrate Newton's equations of motion, while OED (Ordinary Differential Equations) integration is used for solving ordinary differential equations.
+This Unity project is a Verlet integrator implementation with Ordinary Differential Equations (OED) integration. Verlet integration is a numerical method used to integrate Newton's equations of motion,ODE (Ordinary Differential Equations)integration is used for solving ordinary differential equations.
 
 ## Quick Peak!
 - you can use the simulator here!
