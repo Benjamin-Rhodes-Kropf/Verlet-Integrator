@@ -1,7 +1,7 @@
 
 ## Introduction to my Unity Verlet-Integrator with ODE Integration
 
-This Unity project is a Verlet integrator implementation with Ordinary Differential Equations (ODE) integration. Verlet integration is a numerical method used to integrate Newton's equations of motion,ODE (Ordinary Differential Equations)integration is used for solving ordinary differential equations.
+This Unity project is a Verlet integrator implementation with Ordinary Differential Equations (ODE) integration.
 
 ## Quick Peak!
 - you can use the simulator here!
